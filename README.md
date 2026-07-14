@@ -25,8 +25,6 @@ that fail in every way a distributed system can fail.
 | Repo | What it shows |
 |---|---|
 | [`idempotency`](https://github.com/smirnov-artur/idempotency) | Idempotency-Key HTTP middleware for payment APIs — in-memory and Postgres stores, concurrent-request handling, table-driven tests with `-race` |
-| [`outbox`](https://github.com/smirnov-artur/outbox) | Transactional outbox → Kafka design: `FOR UPDATE SKIP LOCKED` poller, at-least-once delivery, consumer-side dedup |
-| [`saga-orchestrator`](https://github.com/smirnov-artur/saga-orchestrator) | Saga orchestration for money movements without 2PC: compensating transactions, idempotent steps, persisted state |
 
 ## Stack
 
