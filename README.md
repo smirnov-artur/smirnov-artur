@@ -70,6 +70,30 @@ Go, PostgreSQL, Kafka, ClickHouse, gRPC/REST, Docker, Kubernetes.
 Distributed-systems primitives: idempotency, exactly-once delivery,
 transactional outbox, saga/compensation, circuit breakers, DLQs.
 
+## Also: interactive 3D for the browser
+
+A second, self-contained line of work — real-time 3D on the web, where the hard
+part is not the render loop but keeping a configurator correct while a real
+catalogue changes under it.
+
+**Live site: [smirnov-artur.github.io/webgl](https://smirnov-artur.github.io/webgl)** — everything below runs in the browser, no install.
+
+| Work | What it does |
+|---|---|
+| **STANDES** | 3D shelving configurator — the client lays out rows over a real floor plan, checks the result in AR on site from a phone, and exports the layout as a spec |
+| **Ventprom** | Parametric configurator for duct fittings — input parameters build the geometry and return a live preview with a priced spec |
+| **Ventmarket** | Equipment selection by operating point across a 400+ item catalogue, ending in a generated specification |
+| **Dios** | Fleet globe on Three.js — ship and aircraft routes rendered in real time with custom atmosphere and trail shaders |
+| **Vertro** | A legacy VB6 + Access engineering suite rebuilt as a web app with nine calculation modules |
+
+Shader demos, hand-written GLSL: [AURUM](https://smirnov-artur.github.io/portfolio/cases/aurum) (bronze sculpture on raw shaders, camera orbits on scroll), [Ferro](https://smirnov-artur.github.io/portfolio/cases/ferro) (liquid cursor revealing a second image), [Fluxwave](https://smirnov-artur.github.io/portfolio/cases/flux) (neon hero with custom cursor physics).
+
+Stack here: Three.js, WebGL, hand-written GLSL, React Three Fiber, TypeScript, GSAP.
+Design and code in one pair of hands, so a scene never stalls between a designer
+and a front-end dev.
+
+Available for contract work on 3D configurators and interactive sites.
+
 ## Contact
 
 - Email: paladei702@gmail.com
