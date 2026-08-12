@@ -78,6 +78,11 @@ catalogue changes under it.
 
 **Live site: [smirnov-artur.github.io/webgl](https://smirnov-artur.github.io/webgl)** — everything below runs in the browser, no install.
 
+### Latest
+
+- **[SLOWLIGHT](https://smirnov-artur.github.io/slowlight/)** — the biography of one photon: an interactive scroll essay drawn by a single hand-written WebGL2 shader. Vanilla JS, zero dependencies, zero images.
+- **[BLOCKSMITH](https://smirnov-artur.github.io/portfolio/cases/blocksmith/)** — a page a Minecraft-style builder assembles in front of you: letter-by-letter headlines, a timelapse world under the sheet, a scroll-driven mine cross-section. Three.js, no framework.
+
 | Work | What it does |
 |---|---|
 | **STANDES** | 3D shelving configurator — the client lays out rows over a real floor plan, checks the result in AR on site from a phone, and exports the layout as a spec |
