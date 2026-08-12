@@ -81,7 +81,7 @@ catalogue changes under it.
 ### Latest
 
 - **[SLOWLIGHT](https://smirnov-artur.github.io/slowlight/)** — the biography of one photon: an interactive scroll essay drawn by a single hand-written WebGL2 shader. Vanilla JS, zero dependencies, zero images.
-- **[BLOCKSMITH](https://smirnov-artur.github.io/portfolio/cases/blocksmith/)** — a page a Minecraft-style builder assembles in front of you: letter-by-letter headlines, a timelapse world under the sheet, a scroll-driven mine cross-section. Three.js, no framework.
+- **[BLOCKSMITH](https://smirnov-artur.github.io/portfolio/cases/blocksmith/en/)** — a page a Minecraft-style builder assembles in front of you: letter-by-letter headlines, a timelapse world under the sheet, a scroll-driven mine cross-section. Three.js, no framework.
 
 | Work | What it does |
 |---|---|
