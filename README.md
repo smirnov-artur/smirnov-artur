@@ -2,7 +2,7 @@
 
 I build websites that feel like a film: scroll-driven stories, 3D products, animated landing pages. Also bots and AI assistants that answer your customers.
 
-**All work (290+ live sites):** https://smirnov-artur.github.io/works/?lang=en
+**All work (290+ live sites):** https://smirnov-artur.github.io/works/en
 
 | | | |
 |---|---|---|
